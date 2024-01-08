@@ -15,24 +15,18 @@ This space is dedicated to sharing anything and everything related to cybersecur
 
 To start sharing and collaborating, follow these simple steps:
 
-1. **Clone this Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/SharingCyberSec.git
-   ```
-
-2. **Create Your Contribution:**
+1. **Create Your Contribution:**
 
    - Share your research findings.
    - Upload tools you've developed.
    - Write articles or tutorials on cybersecurity topics.
 
-3. **Submit a Pull Request:**
+2. **Submit a Pull Request:**
 
    - Push your changes to your forked repository.
    - Open a pull request, describing your contribution.
 
-4. **Engage with the Community:**
+3. **Engage with the Community:**
 
    - Join the [Discussions](https://github.com/your-username/SharingCyberSec/discussions) tab to interact with others.
    - Comment on pull requests and share your thoughts.
