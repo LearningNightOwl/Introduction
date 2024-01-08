@@ -31,25 +31,6 @@ To start sharing and collaborating, follow these simple steps:
    - Join the discussions to interact with others.
    - Comment on pull requests and share your thoughts.
 
-## How to Share
-
-### File Structure
-
-Organize your contributions within relevant folders. For example:
-
-- **/research**: Research papers, findings, and analysis.
-- **/tools**: Scripts, applications, or tools you've developed.
-- **/articles**: In-depth articles or tutorials.
-- **/resources**: Links, books, and other useful cybersecurity resources.
-
-### Markdown Formatting
-
-When creating or editing documents, use Markdown for clear and readable content. Feel free to use the [GitHub Flavored Markdown Guide](https://guides.github.com/features/mastering-markdown/) for reference.
-
-## Contribution Guidelines
-
-Check the [Contribution Guidelines](CONTRIBUTING.md) for detailed instructions on how to contribute. Ensure your contributions align with the community standards for content and formatting.
-
 ## Topics of Interest
 
 Share anything related to cybersecurity, including but not limited to:
