@@ -28,7 +28,7 @@ To start sharing and collaborating, follow these simple steps:
 
 3. **Engage with the Community:**
 
-   - Join the [Discussions](https://github.com/your-username/SharingCyberSec/discussions) tab to interact with others.
+   - Join the discussions to interact with others.
    - Comment on pull requests and share your thoughts.
 
 ## How to Share
